@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+body{
+ background: white;
+}
+
+.top1-nav{
+    background: rgb(51, 53, 69);
+}
+.nav-div2{
+    width: 15%;
+}
+.bmslogo{
+    width: 17%;
+}
+.menu-bar{
+    color: #fff;
+    font-size: 20px;
+    height: 35px;
+    width: 75px;
+}
+.nav-btn{
+    width: 75px;
+    height: 35px;
+}
+.sign-btn{
+    width: 40%;
+    border: none;
+    color: #fff;
+}
+.place{
+    width: 100px;
+    height: 35px;
+}
+.top2-nav{
+    background: rgb(34, 37, 57);
+}
+.nav2 a{
+    text-decoration: none;
+    color: #fff;
+   }
+  
